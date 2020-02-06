@@ -36,9 +36,9 @@ By project management I primarily mean keeping track of assigned tasks
 using the **Issues** tab on GitHub. We can have an ongoing conversation
 here about each specific issue and close it out when its completed or
 resolved. Be sure to tag collaborators you want to see the conversation
-(e.g., `@marcdotson`). Think of this as an email thread or Slack channel
-where all of the conversations are in one place, easily searchable, and
-automatically archived.
+(e.g., `@jeff-dotson`). Think of this as an email thread or Slack
+channel where all of the conversations are in one place, easily
+searchable, and automatically archived.
 
 ### Writing
 
@@ -186,3 +186,5 @@ aren’t pushed to GitHub.
     Development](https://www.mathkills.com/words/2019/2/17/academic-research-as-software-development)
   - [Happy Git and GitHub for the useR](https://happygitwithr.com)
   - [What They Forgot to Teach You About R](https://whattheyforgot.org)
+
+# hello world
